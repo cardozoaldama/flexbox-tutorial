@@ -15,6 +15,6 @@
 .menu {
     border: 1px solid #fff; /*Temporal...*/
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     width: 900px;
 }
