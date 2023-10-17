@@ -3,3 +3,9 @@
     margin: 0;
     padding: 0;
 }
+
+.menu-container {
+    color: #fff;
+    background-color: #5995DA;
+    padding: 20px 0;
+}
