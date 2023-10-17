@@ -18,9 +18,8 @@
     width: 900px;
 }
 
-.links {
-    display: flex;
-    justify-content: flex-end;
+.signup {
+    margin-left: auto;
 }
 
 .login {
